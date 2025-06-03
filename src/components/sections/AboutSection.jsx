@@ -38,20 +38,18 @@ const AboutSection = () => {
             className="space-y-6"
           >
             <p className="text-lg text-gray-600 leading-relaxed">
-              Sou um desenvolvedor full stack com mais de 5 anos de experiência criando aplicações web e mobile modernas.
-              Minha paixão é transformar ideias complexas em soluções digitais elegantes e funcionais.
+             Estou iniciando minha jornada como desenvolvedor Full Stack, focado em aprender e evoluir constantemente no desenvolvimento de aplicações web. Tenho me dedicado ao aprimoramento em linguagens como Java, C# e JavaScript, além de já ter uma boa familiaridade com o React e outras tecnologias modernas.
             </p>
             <p className="text-lg text-gray-600 leading-relaxed">
-              Especializado em React, Node.js e tecnologias modernas, sempre busco estar atualizado com as últimas
-              tendências do desenvolvimento web para entregar produtos de alta qualidade.
+             Também tenho conhecimentos em UX e Design, o que me ajuda a criar interfaces mais intuitivas e agradáveis. Meu objetivo é transformar ideias em soluções funcionais, ganhando experiência prática e acompanhando as tendências do desenvolvimento para crescer na área e entregar projetos de qualidade.
             </p>
             <div className="grid grid-cols-2 gap-4 pt-4">
               <div className="text-center p-4 bg-gradient-to-br from-purple-50 to-blue-50 rounded-lg">
-                <div className="text-3xl font-bold text-purple-600">50+</div>
+                <div className="text-3xl font-bold text-purple-600">20+</div>
                 <div className="text-gray-600">Projetos</div>
               </div>
               <div className="text-center p-4 bg-gradient-to-br from-purple-50 to-blue-50 rounded-lg">
-                <div className="text-3xl font-bold text-purple-600">5+</div>
+                <div className="text-3xl font-bold text-purple-600">1+</div>
                 <div className="text-gray-600">Anos</div>
               </div>
             </div>

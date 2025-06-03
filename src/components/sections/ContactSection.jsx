@@ -45,7 +45,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-800">Email</h3>
-                <p className="text-gray-600">joao.silva@email.com</p>
+                <p className="text-gray-600">adrielcastor7@gmail.com</p>
               </div>
             </div>
 
@@ -55,7 +55,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-800">LinkedIn</h3>
-                <p className="text-gray-600">linkedin.com/in/joaosilva</p>
+                <p className="text-gray-600">linkedin.com/in/AdrielCastor</p>
               </div>
             </div>
 
@@ -65,7 +65,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-800">GitHub</h3>
-                <p className="text-gray-600">github.com/joaosilva</p>
+                <p className="text-gray-600">github.com/AdrielCastor</p>
               </div>
             </div>
           </motion.div>

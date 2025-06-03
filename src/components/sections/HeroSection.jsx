@@ -26,10 +26,10 @@ const HeroSection = ({ scrollY, scrollToSection }) => {
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
             <span className="text-gray-800">Olá, eu sou</span>
             <br />
-            <span className="text-gradient">João Silva</span>
+            <span className="text-gradient">Adriel Castor</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
-            Desenvolvedor Full Stack apaixonado por criar experiências digitais incríveis e soluções inovadoras
+          Desenvolvedor Full Stack em início de carreira, com entusiasmo por criar experiências digitais e aprender novas tecnologias para construir soluções inovadoras.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button

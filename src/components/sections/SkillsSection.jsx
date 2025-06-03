@@ -4,6 +4,9 @@ import { Code, Palette, Smartphone, Database, Globe } from 'lucide-react';
 
 const skillsData = [
   { name: 'React', level: 95, icon: Code },
+  { name: 'Python', level: 80, icon: Code },
+  { name: 'Java', level: 20, icon: Code },
+  { name: 'C#', level: 15, icon: Code },
   { name: 'JavaScript', level: 90, icon: Code },
   { name: 'UI/UX Design', level: 85, icon: Palette },
   { name: 'Mobile Development', level: 80, icon: Smartphone },
