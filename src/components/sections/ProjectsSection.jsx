@@ -25,8 +25,8 @@ const projectsData = [
     description: 'Site de portfólio responsivo com animações suaves e design moderno. Otimizado para performance e SEO.',
     image: 'Modern portfolio website with smooth animations and responsive design',
     tech: ['React', 'Framer Motion', 'TailwindCSS'],
-    github: '#',
-    live: '#',
+    github: 'https://github.com/AdrielCastor/Nicole-Psicologa',
+    live: 'http://psicologanicollecabral.com/',
   },
 ];
 
